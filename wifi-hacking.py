@@ -1,5 +1,5 @@
 ###########################################################################
-# AUTHOR  : AKASH BLACK HAT                                               #
+# AUTHOR  : R!XMEE                                               #
 #  TIP     : FUCK YOU HATERS
 ###########################################################################
 
@@ -22,7 +22,7 @@ def intro():
 ██║███╗██║██║██╔══╝  ██║   ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║    
 ╚███╔███╔╝██║██║     ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝    
  ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
-Author  : AKASH BLACK HAT
+Author  : R!XMEE
 -------------------------------------------------------------------------  
 (1)Start monitor mode       
 (2)Stop monitor mode
@@ -188,12 +188,12 @@ Author  : AKASH BLACK HAT
         cmd = os.system("clear")
         print("""
 Hi.
-My Name AKASHBLACKHAT , A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
+My Name R!xmee , A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
 you can find on YOUTUBE !
 
-https://www.youtube.com/channel/UCWlAUmBOM07RXwwfZyfj_uw
+https://www.youtube.com
 
-Contack me = @akashblackhat insta
+Contack me = Rizmee@me.com
 
 Feel Free to Contact,
 
