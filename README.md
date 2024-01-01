@@ -41,7 +41,7 @@
 # Installation
 # Kali Linux / Ubuntu / Parrot OS :
     sudo apt-get update && apt-get install git
-    git clone https://github.com/akashblackhat/wifi-hacking.py.git
+    git clone https://github.com/rizmee/wifi-hacking.py.git
     ls
     cd wifi-hacking.py
     ls
@@ -58,7 +58,7 @@
     ls
     python3 wifi-hacking.py
 # tools video
- * https://youtu.be/uamB2WopwF4
+ * https://youtu.be/rizmee
 # Disclaimer :
 * Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 🏴 !!!
 * Hacking is not a crime 
